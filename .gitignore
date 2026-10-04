@@ -1,0 +1,5 @@
+*.skill
+dist/
+
+# Claude Code personal overrides (shared .claude/settings.json stays tracked)
+.claude/settings.local.json
